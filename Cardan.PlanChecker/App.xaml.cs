@@ -12,7 +12,7 @@ using ESAPIX.Common;
 namespace Cardan.PlanChecker
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Interaction logic for 
     /// </summary>
     public partial class App : Application
     {
